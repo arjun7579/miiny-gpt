@@ -1,0 +1,8 @@
+## === FILE: .gitignore ===
+
+__pycache__/
+*.pt
+data/*.txt
+.ipynb_checkpoints/
+.vscode/
+*.swp
