@@ -6,3 +6,5 @@ data/*.txt
 .ipynb_checkpoints/
 .vscode/
 *.swp
+
+venv
